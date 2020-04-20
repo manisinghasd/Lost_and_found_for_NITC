@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "733105887986",
+    "firebase_url": "https://lostfound-16be1.firebaseio.com",
+    "project_id": "lostfound-16be1",
+    "storage_bucket": "lostfound-16be1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733105887986:android:5db134fda13221419e0e6b",
+        "android_client_info": {
+          "package_name": "com.mani.lost_found"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733105887986-js0qsp9t5visleh6ho1sac9o702btdms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mani.lost_found",
+            "certificate_hash": "4a35ebe78c78dba7c78970a1a2d7781a25465a9b"
+          }
+        },
+        {
+          "client_id": "733105887986-5qo49hk8eb7fo7034947uakesevib861.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuucJIy5jBe-qSRyOaQ5MlMHG5Gf03qiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733105887986-5qo49hk8eb7fo7034947uakesevib861.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
